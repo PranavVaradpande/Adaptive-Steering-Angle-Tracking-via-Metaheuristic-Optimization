@@ -8,7 +8,7 @@ The CODESYS ecosystem includes **500+ manufacturers and approximately 1,000 devi
 
 ### About This Project
 
-This repository demonstrates the implementation of **Grey Wolf Optimization (GWO)** and optimization-based control algorithms in **CODESYS Structured Text** for automotive/vehicle-control applications.
+This repository demonstrates the implementation of **Grey Wolf Optimization (GWO)** and optimization-based control algorithms in **CODESYS Structured Text** for automotive/vehicle-control applications. Along with this, a simulator with multiple controller for tuning the 4 wires of the vehicle: Steer by wire, Throttle by wire, Brake by wire, Gear by wire.
 
 The objective is to demonstrate how computational intelligence algorithms can be implemented within an IEC 61131-3 real-time control environment and integrated with vehicle actuator models. The projects focus on:
 
